@@ -64,7 +64,10 @@ main {
 	width: 850px;
 	margin: 35px auto;
 }
+button {
+	margin-top: 35px;
 
+}
 footer {
 	text-transform: uppercase;
 	padding: 0 20px 0 20px;
@@ -99,4 +102,5 @@ footer {
 	color: #F15B31;
 	font-weight: 700;
 }
+
 
